@@ -13,5 +13,5 @@ Please stay tuned!
 
 ## Posts
 
-![DC motor driver using HBridge VNH7070AS](cdd/dc-motor/index.md)
+{% link cdd/dc-motor/index.md %}
 
